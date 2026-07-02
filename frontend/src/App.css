@@ -122,8 +122,10 @@ h1 {
 
 .task-info p {
   font-size: 14px;
-  color: #57566b;
+  color: #57566b !important;
   margin-bottom: 6px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 .status-badge {
