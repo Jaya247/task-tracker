@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 import './App.css';
 
-const API_URL = 'http://localhost:5000/api/tasks';
+const API_URL = 'https://task-tracker-jmoa.onrender.com/api/tasks';
 
 function App() {
   const [tasks, setTasks] = useState([]);
