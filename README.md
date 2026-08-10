@@ -11,7 +11,7 @@ A full-stack Task Tracker web application built using MongoDB, Express, React, a
 - Form validation
 - REST APIs 
 - MongoDB integration
-- Responsive UI
+- Responsive UI 
 - Dynamic updates without page refresh
 
 ## Tech Stack
