@@ -14,7 +14,7 @@ A full-stack Task Tracker web application built using MongoDB, Express, React, a
 - Responsive UI 
 - Dynamic updates without page refresh
 
-## Tech Stack
+## Tech Stack 
 - Frontend: React.js (Vite), Axios
 - Backend: Node.js, Express.js
 - Database: MongoDB Atlas
