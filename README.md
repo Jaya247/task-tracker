@@ -8,7 +8,7 @@ A full-stack Task Tracker web application built using MongoDB, Express, React, a
 
 ## Features   
 - Create, View, Update & Delete Tasks (CRUD)                    
-- Form validation
+- Form validation             
 - REST APIs                         
 - MongoDB integration            
 - Responsive UI          
